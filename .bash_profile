@@ -46,4 +46,4 @@ fi
 #yarn shortcuts
 alias ys='yarn start'
 alias yt='yarn test'
-
+alias ytw='yarn test:watch'
