@@ -43,4 +43,7 @@ if [ -f `brew --prefix`/etc/bash_completion.d/git-flow-completion.bash ]; then
   . `brew --prefix`/etc/bash_completion.d/git-flow-completion.bash
 fi
 
+#yarn shortcuts
+alias ys='yarn start'
+alias yt='yarn test'
 
